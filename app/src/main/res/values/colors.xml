@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0E57DF</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#03A9F4</color>
+    <color name="divideColor">#23FFFFFF</color>
+    <color name="white">#FFFFFF</color>
+    <color name="trans">#00000000</color>
+    <color name="rippleBlue">#556DC0</color>
+    <color name="redpink">#ff4757</color>
+</resources>
